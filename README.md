@@ -57,7 +57,7 @@ return PhpCsFixer\Config::create()
 
 Запуск
 ------
-Для запуска выполните комманду в консоли из корня прокта:
+Для запуска выполните комманду:
 ```
 php vendor/bin/php-cs-fixer fix
 ```
