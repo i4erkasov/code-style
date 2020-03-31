@@ -12,9 +12,9 @@ Code Style for Symfony 4.x - 5.x
 ------
 **settings.zip** - настройки code style для IDE PhpShtorm
 
-**.php_cs** - файл настроек для PHP CS Fixer (в нашем случаи для Symfony). Подробней об иструменте [PHP CS Fixer](https://cs.symfony.com/)
+**.php_cs** - файл настроек для [PHP CS Fixer](https://cs.symfony.com/) (в нашем случаи для Symfony).
 
-Кратко о настройки PHP CS Fixer:
+Кратко о настройки [PHP CS Fixer](https://cs.symfony.com/):
 
 Установка
 ---------
