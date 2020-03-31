@@ -6,7 +6,7 @@ Code Style for Symfony 4.x - 5.x
 
 - [PSR-2](https://www.php-fig.org/psr/psr-2/)
 - [PSR-12](https://www.php-fig.org/psr/psr-12/)
-- https://github.com/index0h/php-conventions#91-inspections-%D0%B8-code-style
+- https://github.com/index0h/php-conventions
 
 Файлы
 ------
