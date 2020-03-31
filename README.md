@@ -2,7 +2,7 @@ Code Style for Symfony 4.x - 5.x
 ================================
 Code Style for Symfony 4.x - 5.x
 
-######Описание рекомендаций по оформлению кода можно прочитать тут: 
+> Описание рекомендаций по оформлению кода можно прочитать тут: 
 
 - [PSR-2](https://www.php-fig.org/psr/psr-2/)
 - [PSR-12](https://www.php-fig.org/psr/psr-12/)
